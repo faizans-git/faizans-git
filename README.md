@@ -4,27 +4,20 @@
 
 CS student. Backend-focused full-stack developer ⚙️
 
-I build scalable APIs, distributed services, and systems that are meant to take load — not just run locally.
+I build scalable APIs, distributed systems, and backend architectures designed to handle real load, not just demo traffic.
 
 ---
 
 ## core focus
-- backend systems & architecture
-- microservices design
-- performance & scalability
+- backend systems & architecture  
+- microservices design  
+- performance & scalability  
 
 ---
 
 ## stack
 Node.js • TypeScript • Express  
 PostgreSQL • Redis • MongoDB  
-
----
-
-## currently
-building a microservices-based social platform  
-breaking monolith thinking  
-learning system design properly
 
 ---
 
