@@ -1,29 +1,32 @@
 # Faizan
 
-CS student & full-stack developer with a strong focus on backend systems ⚙️
+> systems > features
 
-I enjoy building scalable APIs, designing clean architectures, and understanding how systems behave under load — not just making features work, but making them work properly.
+CS student. Backend-focused full-stack developer ⚙️
 
----
-
-## 🧠 Focus
-- Backend development & system design
-- Scalable APIs & microservices
-- Performance-focused architecture
+I build scalable APIs, distributed services, and systems that are meant to take load — not just run locally.
 
 ---
 
-## 🛠️ Stack
+## core focus
+- backend systems & architecture
+- microservices design
+- performance & scalability
+
+---
+
+## stack
 Node.js • TypeScript • Express  
 PostgreSQL • Redis • MongoDB  
 
 ---
 
-## 🚧 Currently
-Building a microservices-based social platform  
-Learning deeper system design & distributed systems  
+## currently
+building a microservices-based social platform  
+breaking monolith thinking  
+learning system design properly
 
 ---
 
-## 🎯 Goal
-Become strong at building production-grade backend systems and high-scale architectures.
+## intent
+build systems that don’t fall apart under pressure.
