@@ -57,16 +57,9 @@ In the long term, I aim to deepen my expertise in backend engineering and low-le
 # Contributions
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=faizans-git&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-</p>
-
-<p align="center">
   <img height="160" src="https://streak-stats.demolab.com/?user=faizans-git&theme=dark&hide_border=false" />
 </p>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizans-git&layout=compact&theme=dark&hide_border=false" />
-</p>
 
 Consistent builder focused on backend systems, APIs, and scalable architecture.  
 Currently improving system design depth through real-world projects and microservices-based systems.  
