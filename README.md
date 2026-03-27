@@ -18,8 +18,3 @@ I build scalable APIs, distributed systems, and backend architectures designed t
 ## stack
 Node.js • TypeScript • Express  
 PostgreSQL • Redis • MongoDB  
-
----
-
-## intent
-build systems that don’t fall apart under pressure.
